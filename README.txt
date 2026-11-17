@@ -1,16 +1,14 @@
 AYUSH RAJ — RESUME WEBSITE
-Files:
-- index.html: website content
-- style.css: layout, colours, typography and responsive styling
+Files: index.html, style.css, README.txt
 
-HOW TO USE:
-1. Keep index.html and style.css in the same folder.
-2. Open index.html in a browser to preview the website.
-3. Upload both files to the same GitHub repository.
-4. Enable GitHub Pages from the repository Settings > Pages.
-5. Replace any details if needed before publishing.
+PROFILE DETAILS
+Ayush Raj | BBA (DBE), IIM Bangalore | Roll No. 26120306 | Delhi, India
+Email: ayush.raj26@iimb.ac.in | Phone: +91 96317 914179
+Yamaha: 6 months, Front Desk & Store Executive
+GD College, Begusarai (LNMU affiliated): B.Com (Honours), first year completed; discontinued after first year
+Chehel: Core team volunteer; teaches underprivileged children
+Interests: startup ideas, entrepreneurship, customer experience and business operations
+LinkedIn profile URL pending; add the exact URL when supplied.
 
-This first version uses the details supplied by Ayush Raj:
-BBA (DBE), IIM Bangalore; roll number 26120306; Delhi;
-ayush.raj26@iimb.ac.in; six months at Yamaha as Front Desk & Store Executive.
-No phone number, dates, or social links have been invented.
+TO UPDATE GITHUB
+Upload/replace index.html and style.css in the repository root, then commit changes. GitHub Pages will redeploy automatically.
